@@ -1,0 +1,6 @@
+{
+    "values": [
+        "arena:is_ingame",
+        "arena:revoke_achievement"
+    ]
+}
